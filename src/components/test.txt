@@ -1,0 +1,12 @@
+<div className="max-w-screen-2xl w-full mx-auto px-4 py-20 md:px-6 md:py-32">
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                    <div className="order-2 md:order-1">
+                        <h2 className="text-3xl font-bold text-zinc-900">Hi, I'm Oumar</h2>
+                        <p className="text-lg text-zinc-700">I'm a full stack developer with a passion for building beautiful and functional user interfaces.</p>
+                        <a href="#work" className="btn btn-primary">View My Work</a>
+                    </div>
+                    <div className="order-1 md:order-2">
+                        <img src="/images/pro-profile.jpg" className="rounded-lg" alt="Oumar" />
+                    </div>
+                </div>
+            </div>
