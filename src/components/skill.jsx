@@ -47,6 +47,31 @@
       desc: 'NoSQL database for modern applications'
     },
     {
+      imgSrc: '/images/oracle.svg',
+      label: 'Oracle',
+      desc: 'DataBase Management System'
+    },
+    {
+      imgSrc: '/images/firebase.svg',
+      label: 'Firebase',
+      desc: 'Platform for building web and mobile apps'
+    },
+    {
+      imgSrc: '/images/java.svg',
+      label: 'Java',
+      desc: 'Programming language '
+    },
+    {
+      imgSrc: '/images/python.svg',
+      label: 'Python',
+      desc: 'Programming language '
+    },
+    {
+      imgSrc: '/images/mysql.svg',
+      label: 'MySQL',
+      desc: 'Open-source relational database management system'
+    },
+    {
       imgSrc: '/images/react.svg',
       label: 'React',
       desc: 'Library for building user interfaces'
