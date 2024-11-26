@@ -37,8 +37,8 @@ import ProjectCard from "./ProjectCard";
       projectLink: 'https://oumar.alwaysdata.net/Voting-Management-System/'
     },
     {
-      imgSrc: '/images/project-6.jpg',
-      title: 'vCard Personal portfolio',
+      imgSrc: '/images/port.jpg',
+      title: ' portfolio',
       tags: ['Web-design', 'Development'],
       projectLink: 'https://github.com/diop74/my_portfolio'
     },
